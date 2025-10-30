@@ -11,3 +11,8 @@
 - **Goal:** Implement a function that takes a string and returns a dictionary mapping each word to how many times it appears.
 - **Concepts:** Dictionaries, Counter, regex word matching, case normalization
 - **Tests:** 5
+
+### 4. roman_to_int
+- **Goal:** Convert Roman numerals to integers.
+- **Concepts:** Dict lookups, left to right scanning, subtractive pairs, input validation
+- **Tests:** 7
